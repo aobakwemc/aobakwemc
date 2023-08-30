@@ -1,7 +1,0 @@
-[core]
-	editor = \"C:\\Users\\aobak\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
-[user]
-	email = aobakwemc
-	name = Aobakwe
-[alias]
-	gm = commit -m
