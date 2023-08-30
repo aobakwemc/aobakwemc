@@ -1,4 +1,4 @@
-# Hi There! :wave:
+# Hey There! :wave:
 ---
 
 :mag: A little about me...
